@@ -1,0 +1,11 @@
+.but {
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+.hed{
+    background-color: yellow;
+}
